@@ -1,4 +1,4 @@
-# Sistem Inventaris Laboratorium
+# Sistem Inventaris Laboratoriumm
 
 Aplikasi web untuk mengelola data inventaris laboratorium berbasis Laravel. Project ini menyediakan manajemen barang, dashboard ringkasan, mutasi stok masuk/keluar, serta status peminjaman barang.
 
