@@ -2,7 +2,7 @@
 
 ## Judul Proyek
 
-Sistem Informasi Inventaris Laboratorium Berbasis Laravel
+Sistem Informasi Inventaris Laboratorium Berbasis Laravel 12
 
 ## Identitas
 
