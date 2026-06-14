@@ -4,8 +4,8 @@ Aplikasi web untuk mengelola data inventaris laboratorium berbasis Laravel. Proj
 
 ## Fitur Utama
 
-- Autentikasi pengguna (login, register, logout).
-- Dashboard ringkasan inventaris.
+- Autentikasi pengguna (login, register, logout). dan memantaskan
+- Dashboard ringkasan inventaris. 
 - CRUD data barang inventaris.
 - Upload foto barang.
 - Filter, pencarian, dan sorting data barang.
